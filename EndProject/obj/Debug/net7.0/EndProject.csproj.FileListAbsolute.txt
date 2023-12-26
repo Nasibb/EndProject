@@ -1,0 +1,15 @@
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/bin/Debug/net7.0/EndProject
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/bin/Debug/net7.0/EndProject.deps.json
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/bin/Debug/net7.0/EndProject.runtimeconfig.json
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/bin/Debug/net7.0/EndProject.dll
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/bin/Debug/net7.0/EndProject.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/EndProject.csproj.AssemblyReference.cache
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/EndProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/EndProject.AssemblyInfoInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/EndProject.AssemblyInfo.cs
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/EndProject.csproj.CoreCompileInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/EndProject.dll
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/refint/EndProject.dll
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/EndProject.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/EndProject.genruntimeconfig.cache
+/Users/nasibikhtiyarli/Desktop/Projects/EndProject/EndProject/obj/Debug/net7.0/ref/EndProject.dll
